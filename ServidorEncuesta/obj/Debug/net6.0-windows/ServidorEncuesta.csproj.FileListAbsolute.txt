@@ -1,0 +1,6 @@
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\ServidorEncuesta.csproj.AssemblyReference.cache
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\ServidorEncuesta_MarkupCompile.cache
+C:\Users\abrah\OneDrive\Escritorio\Semestre 9\Cliente Servidor\Encuesta\ServidorEncuesta\obj\Debug\net6.0-windows\ServidorEncuesta_MarkupCompile.lref
